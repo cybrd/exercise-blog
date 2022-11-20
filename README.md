@@ -2,19 +2,19 @@
 
 ## requirements
 
-typescript
+typescript  
 aws
 
 ### front-end
 
-react
+react  
 wysiwyg
 
 ### back-end
 
-node serverless
-users - cognito
-upload text - s3
+node serverless  
+users - cognito  
+upload text - s3  
 upload image - s3
 
 ## steps
